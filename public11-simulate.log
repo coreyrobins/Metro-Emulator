@@ -1,0 +1,21 @@
+% simulate.rb simulate public11.input 
+=== Lines ===
+Red, Glenmont, Silver Spring, Fort Totten, Union Station, Gallery Place, Metro Center, Bethesda, Shady Grove
+Green, Greenbelt, College Park, Fort Totten, Gallery Place, L'Enfant Plaza, Branch Ave
+Yellow, Fort Totten, Gallery Place, L'Enfant Plaza, Pentagon, Airport, King Street, Huntington
+Orange, New Carrolton, Stadium-Armory, Eastern Market, L'Enfant Plaza, Smithsonian, Metro Center, Foggy Bottom, Rosslyn, Ballston, Vienna
+Blue, Largo Town Center, Stadium-Armory, Eastern Market, L'Enfant Plaza, Smithsonian, Metro Center, Foggy Bottom, Rosslyn, Arlington Cemetery, Pentagon, Airport, King Street, Franconia-Springfield
+=== Trains ===
+Red=2
+Green=2
+Yellow=2
+Orange=2
+Blue=2
+=== Passenger Limit ===
+limit=2
+=== Passengers ===
+Amy, College Park, Gallery Place
+Bob, Silver Spring, Bethesda
+Cindy, Union Station, Fort Totten, College Park
+Donna, Silver Spring, Metro Center, Ballston
+=== Output ===

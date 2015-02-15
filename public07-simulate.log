@@ -1,0 +1,59 @@
+% simulate.rb simulate public07.input 
+=== Lines ===
+Blue, Largo Town Center, Stadium-Armory, Eastern Market, L'Enfant Plaza, Smithsonian, Metro Center, Foggy Bottom, Rosslyn, Arlington Cemetery, Pentagon, Airport, King Street, Franconia-Springfield
+=== Trains ===
+Blue=1
+=== Passenger Limit ===
+limit=
+=== Passengers ===
+=== Output ===
+Train Blue 1 entering Largo Town Center
+Train Blue 1 leaving Largo Town Center
+Train Blue 1 entering Stadium-Armory
+Train Blue 1 leaving Stadium-Armory
+Train Blue 1 entering Eastern Market
+Train Blue 1 leaving Eastern Market
+Train Blue 1 entering L'Enfant Plaza
+Train Blue 1 leaving L'Enfant Plaza
+Train Blue 1 entering Smithsonian
+Train Blue 1 leaving Smithsonian
+Train Blue 1 entering Metro Center
+Train Blue 1 leaving Metro Center
+Train Blue 1 entering Foggy Bottom
+Train Blue 1 leaving Foggy Bottom
+Train Blue 1 entering Rosslyn
+Train Blue 1 leaving Rosslyn
+Train Blue 1 entering Arlington Cemetery
+Train Blue 1 leaving Arlington Cemetery
+Train Blue 1 entering Pentagon
+Train Blue 1 leaving Pentagon
+Train Blue 1 entering Airport
+Train Blue 1 leaving Airport
+Train Blue 1 entering King Street
+Train Blue 1 leaving King Street
+Train Blue 1 entering Franconia-Springfield
+Train Blue 1 leaving Franconia-Springfield
+Train Blue 1 entering King Street
+Train Blue 1 leaving King Street
+Train Blue 1 entering Airport
+Train Blue 1 leaving Airport
+Train Blue 1 entering Pentagon
+Train Blue 1 leaving Pentagon
+Train Blue 1 entering Arlington Cemetery
+Train Blue 1 leaving Arlington Cemetery
+Train Blue 1 entering Rosslyn
+Train Blue 1 leaving Rosslyn
+Train Blue 1 entering Foggy Bottom
+Train Blue 1 leaving Foggy Bottom
+Train Blue 1 entering Metro Center
+Train Blue 1 leaving Metro Center
+Train Blue 1 entering Smithsonian
+Train Blue 1 leaving Smithsonian
+Train Blue 1 entering L'Enfant Plaza
+Train Blue 1 leaving L'Enfant Plaza
+Train Blue 1 entering Eastern Market
+Train Blue 1 leaving Eastern Market
+Train Blue 1 entering Stadium-Armory
+Train Blue 1 leaving Stadium-Armory
+Train Blue 1 entering Largo Town Center
+Train Blue 1 leaving Largo Town Center

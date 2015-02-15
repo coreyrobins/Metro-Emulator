@@ -1,0 +1,1008 @@
+%
+% public12 - multiple lines with multiple trains and multiple
+%            passengers with multiple stops on their
+%            itineraries requiring transfers, with more
+%            passengers than the train capacity
+%
+=== Lines ===
+Red, Glenmont, Silver Spring, Fort Totten, Union Station, Gallery Place, Metro Center, Bethesda, Shady Grove
+Green, Greenbelt, College Park, Fort Totten, Gallery Place, L'Enfant Plaza, Branch Ave
+Yellow, Fort Totten, Gallery Place, L'Enfant Plaza, Pentagon, Airport, King Street, Huntington
+Orange, New Carrolton, Stadium-Armory, Eastern Market, L'Enfant Plaza, Smithsonian, Metro Center, Foggy Bottom, Rosslyn, Ballston, Vienna
+Blue, Largo Town Center, Stadium-Armory, Eastern Market, L'Enfant Plaza, Smithsonian, Metro Center, Foggy Bottom, Rosslyn, Arlington Cemetery, Pentagon, Airport, King Street, Franconia-Springfield
+=== Trains ===
+Red=1
+Green=1
+Yellow=1
+Orange=1
+Blue=1
+=== Passenger Limit ===
+limit=5
+=== Passengers ===
+Mickey, Shady Grove, Glenmont, Gallery Place, Greenbelt
+Minnie, Greenbelt, Gallery Place, Glenmont, Shady Grove
+Donald, Huntington, Gallery Place, Glenmont, Silver Spring
+Tweety, Largo Town Center, Metro Center, Shady Grove
+Sylvester, Largo Town Center, L'Enfant Plaza, Eastern Market, Smithsonian, Metro Center, Fort Totten, College Park
+Grumpy, Largo Town Center, L'Enfant Plaza, Eastern Market, Smithsonian, Metro Center, Fort Totten, College Park
+Sleepy, Largo Town Center, L'Enfant Plaza, Eastern Market, Smithsonian, Metro Center, Fort Totten, College Park
+Sneezy, Largo Town Center, L'Enfant Plaza, Eastern Market, Smithsonian, Metro Center, Fort Totten, College Park
+Doc, Largo Town Center, L'Enfant Plaza, Eastern Market, Smithsonian, Metro Center, Fort Totten, College Park
+=== Output ===
+Train Yellow 1 entering Fort Totten
+Train Blue 1 entering Largo Town Center
+Train Green 1 entering Greenbelt
+Train Red 1 entering Glenmont
+Train Orange 1 entering New Carrolton
+Minnie boarding train Green 1 at Greenbelt
+Sylvester boarding train Blue 1 at Largo Town Center
+Tweety boarding train Blue 1 at Largo Town Center
+Train Yellow 1 leaving Fort Totten
+Train Blue 1 leaving Largo Town Center
+Train Orange 1 leaving New Carrolton
+Train Red 1 leaving Glenmont
+Train Green 1 leaving Greenbelt
+Train Yellow 1 entering Gallery Place
+Train Blue 1 entering Stadium-Armory
+Train Orange 1 entering Stadium-Armory
+Train Red 1 entering Silver Spring
+Train Green 1 entering College Park
+Train Blue 1 leaving Stadium-Armory
+Train Yellow 1 leaving Gallery Place
+Train Orange 1 leaving Stadium-Armory
+Train Red 1 leaving Silver Spring
+Train Green 1 leaving College Park
+Train Blue 1 entering Eastern Market
+Train Yellow 1 entering L'Enfant Plaza
+Train Orange 1 entering Eastern Market
+Train Red 1 entering Fort Totten
+Train Green 1 entering Fort Totten
+Train Blue 1 leaving Eastern Market
+Train Yellow 1 leaving L'Enfant Plaza
+Train Orange 1 leaving Eastern Market
+Train Red 1 leaving Fort Totten
+Train Green 1 leaving Fort Totten
+Train Blue 1 entering L'Enfant Plaza
+Train Yellow 1 entering Pentagon
+Train Orange 1 entering L'Enfant Plaza
+Train Red 1 entering Union Station
+Train Green 1 entering Gallery Place
+Sylvester leaving train Blue 1 at L'Enfant Plaza
+Minnie leaving train Green 1 at Gallery Place
+Train Blue 1 leaving L'Enfant Plaza
+Train Blue 1 entering Smithsonian
+Train Orange 1 leaving L'Enfant Plaza
+Train Red 1 leaving Union Station
+Train Green 1 leaving Gallery Place
+Train Yellow 1 leaving Pentagon
+Train Orange 1 entering Smithsonian
+Train Red 1 entering Gallery Place
+Train Green 1 entering L'Enfant Plaza
+Train Yellow 1 entering Airport
+Minnie boarding train Red 1 at Gallery Place
+Train Orange 1 leaving Smithsonian
+Train Red 1 leaving Gallery Place
+Train Green 1 leaving L'Enfant Plaza
+Train Blue 1 leaving Smithsonian
+Train Yellow 1 leaving Airport
+Train Orange 1 entering Metro Center
+Train Red 1 entering Metro Center
+Train Green 1 entering Branch Ave
+Train Blue 1 entering Metro Center
+Train Yellow 1 entering King Street
+Tweety leaving train Blue 1 at Metro Center
+Train Orange 1 leaving Metro Center
+Train Red 1 leaving Metro Center
+Train Green 1 leaving Branch Ave
+Train Blue 1 leaving Metro Center
+Train Yellow 1 leaving King Street
+Train Orange 1 entering Foggy Bottom
+Train Red 1 entering Bethesda
+Train Green 1 entering L'Enfant Plaza
+Train Blue 1 entering Foggy Bottom
+Train Yellow 1 entering Huntington
+Donald boarding train Yellow 1 at Huntington
+Train Orange 1 leaving Foggy Bottom
+Train Red 1 leaving Bethesda
+Train Green 1 leaving L'Enfant Plaza
+Train Blue 1 leaving Foggy Bottom
+Train Yellow 1 leaving Huntington
+Train Orange 1 entering Rosslyn
+Train Red 1 entering Shady Grove
+Train Green 1 entering Gallery Place
+Train Blue 1 entering Rosslyn
+Train Yellow 1 entering King Street
+Mickey boarding train Red 1 at Shady Grove
+Train Orange 1 leaving Rosslyn
+Train Red 1 leaving Shady Grove
+Train Green 1 leaving Gallery Place
+Train Blue 1 leaving Rosslyn
+Train Yellow 1 leaving King Street
+Train Orange 1 entering Ballston
+Train Red 1 entering Bethesda
+Train Green 1 entering Fort Totten
+Train Blue 1 entering Arlington Cemetery
+Train Yellow 1 entering Airport
+Train Orange 1 leaving Ballston
+Train Red 1 leaving Bethesda
+Train Green 1 leaving Fort Totten
+Train Blue 1 leaving Arlington Cemetery
+Train Yellow 1 leaving Airport
+Train Orange 1 entering Vienna
+Train Red 1 entering Metro Center
+Train Green 1 entering College Park
+Train Blue 1 entering Pentagon
+Train Yellow 1 entering Pentagon
+Tweety boarding train Red 1 at Metro Center
+Train Orange 1 leaving Vienna
+Train Red 1 leaving Metro Center
+Train Green 1 leaving College Park
+Train Blue 1 leaving Pentagon
+Train Yellow 1 leaving Pentagon
+Train Orange 1 entering Ballston
+Train Red 1 entering Gallery Place
+Train Green 1 entering Greenbelt
+Train Blue 1 entering Airport
+Train Yellow 1 entering L'Enfant Plaza
+Train Orange 1 leaving Ballston
+Train Red 1 leaving Gallery Place
+Train Green 1 leaving Greenbelt
+Train Blue 1 leaving Airport
+Train Yellow 1 leaving L'Enfant Plaza
+Train Orange 1 entering Rosslyn
+Train Red 1 entering Union Station
+Train Green 1 entering College Park
+Train Blue 1 entering King Street
+Train Yellow 1 entering Gallery Place
+Donald leaving train Yellow 1 at Gallery Place
+Train Orange 1 leaving Rosslyn
+Train Red 1 leaving Union Station
+Train Green 1 leaving College Park
+Train Blue 1 leaving King Street
+Train Yellow 1 leaving Gallery Place
+Train Orange 1 entering Foggy Bottom
+Train Red 1 entering Fort Totten
+Train Green 1 entering Fort Totten
+Train Blue 1 entering Franconia-Springfield
+Train Yellow 1 entering Fort Totten
+Train Orange 1 leaving Foggy Bottom
+Train Red 1 leaving Fort Totten
+Train Green 1 leaving Fort Totten
+Train Blue 1 leaving Franconia-Springfield
+Train Yellow 1 leaving Fort Totten
+Train Orange 1 entering Metro Center
+Train Red 1 entering Silver Spring
+Train Green 1 entering Gallery Place
+Train Blue 1 entering King Street
+Train Yellow 1 entering Gallery Place
+Train Orange 1 leaving Metro Center
+Train Red 1 leaving Silver Spring
+Train Green 1 leaving Gallery Place
+Train Blue 1 leaving King Street
+Train Yellow 1 leaving Gallery Place
+Train Orange 1 entering Smithsonian
+Train Red 1 entering Glenmont
+Train Green 1 entering L'Enfant Plaza
+Train Blue 1 entering Airport
+Train Yellow 1 entering L'Enfant Plaza
+Minnie leaving train Red 1 at Glenmont
+Mickey leaving train Red 1 at Glenmont
+Train Orange 1 leaving Smithsonian
+Train Red 1 leaving Glenmont
+Train Green 1 leaving L'Enfant Plaza
+Train Blue 1 leaving Airport
+Train Yellow 1 leaving L'Enfant Plaza
+Train Orange 1 entering L'Enfant Plaza
+Train Red 1 entering Silver Spring
+Train Green 1 entering Branch Ave
+Train Blue 1 entering Pentagon
+Train Yellow 1 entering Pentagon
+Train Orange 1 leaving L'Enfant Plaza
+Train Red 1 leaving Silver Spring
+Train Green 1 leaving Branch Ave
+Train Blue 1 leaving Pentagon
+Train Yellow 1 leaving Pentagon
+Train Orange 1 entering Eastern Market
+Train Red 1 entering Fort Totten
+Train Green 1 entering L'Enfant Plaza
+Train Blue 1 entering Arlington Cemetery
+Train Yellow 1 entering Airport
+Train Orange 1 leaving Eastern Market
+Train Red 1 leaving Fort Totten
+Train Green 1 leaving L'Enfant Plaza
+Train Blue 1 leaving Arlington Cemetery
+Train Yellow 1 leaving Airport
+Train Orange 1 entering Stadium-Armory
+Train Red 1 entering Union Station
+Train Green 1 entering Gallery Place
+Train Blue 1 entering Rosslyn
+Train Yellow 1 entering King Street
+Train Orange 1 leaving Stadium-Armory
+Train Red 1 leaving Union Station
+Train Green 1 leaving Gallery Place
+Train Blue 1 leaving Rosslyn
+Train Yellow 1 leaving King Street
+Train Orange 1 entering New Carrolton
+Train Red 1 entering Gallery Place
+Train Green 1 entering Fort Totten
+Train Blue 1 entering Foggy Bottom
+Train Yellow 1 entering Huntington
+Donald boarding train Red 1 at Gallery Place
+Train Orange 1 leaving New Carrolton
+Train Red 1 leaving Gallery Place
+Train Green 1 leaving Fort Totten
+Train Blue 1 leaving Foggy Bottom
+Train Yellow 1 leaving Huntington
+Train Orange 1 entering Stadium-Armory
+Train Red 1 entering Metro Center
+Train Green 1 entering College Park
+Train Blue 1 entering Metro Center
+Train Yellow 1 entering King Street
+Train Orange 1 leaving Stadium-Armory
+Train Red 1 leaving Metro Center
+Train Green 1 leaving College Park
+Train Blue 1 leaving Metro Center
+Train Yellow 1 leaving King Street
+Train Orange 1 entering Eastern Market
+Train Red 1 entering Bethesda
+Train Green 1 entering Greenbelt
+Train Blue 1 entering Smithsonian
+Train Yellow 1 entering Airport
+Train Orange 1 leaving Eastern Market
+Train Red 1 leaving Bethesda
+Train Green 1 leaving Greenbelt
+Train Blue 1 leaving Smithsonian
+Train Yellow 1 leaving Airport
+Train Orange 1 entering L'Enfant Plaza
+Train Red 1 entering Shady Grove
+Train Green 1 entering College Park
+Train Blue 1 entering L'Enfant Plaza
+Train Yellow 1 entering Pentagon
+Sylvester boarding train Blue 1 at L'Enfant Plaza
+Tweety leaving train Red 1 at Shady Grove
+Train Orange 1 leaving L'Enfant Plaza
+Train Red 1 leaving Shady Grove
+Train Green 1 leaving College Park
+Train Blue 1 leaving L'Enfant Plaza
+Train Yellow 1 leaving Pentagon
+Train Orange 1 entering Smithsonian
+Train Red 1 entering Bethesda
+Train Green 1 entering Fort Totten
+Train Blue 1 entering Eastern Market
+Train Yellow 1 entering L'Enfant Plaza
+Sylvester leaving train Blue 1 at Eastern Market
+Train Orange 1 leaving Smithsonian
+Train Red 1 leaving Bethesda
+Train Green 1 leaving Fort Totten
+Train Blue 1 leaving Eastern Market
+Train Yellow 1 leaving L'Enfant Plaza
+Train Orange 1 entering Metro Center
+Train Red 1 entering Metro Center
+Train Green 1 entering Gallery Place
+Train Blue 1 entering Stadium-Armory
+Train Yellow 1 entering Gallery Place
+Train Orange 1 leaving Metro Center
+Train Red 1 leaving Metro Center
+Train Green 1 leaving Gallery Place
+Train Blue 1 leaving Stadium-Armory
+Train Yellow 1 leaving Gallery Place
+Train Orange 1 entering Foggy Bottom
+Train Red 1 entering Gallery Place
+Train Green 1 entering L'Enfant Plaza
+Train Blue 1 entering Largo Town Center
+Train Yellow 1 entering Fort Totten
+Doc boarding train Blue 1 at Largo Town Center
+Sneezy boarding train Blue 1 at Largo Town Center
+Sleepy boarding train Blue 1 at Largo Town Center
+Grumpy boarding train Blue 1 at Largo Town Center
+Train Orange 1 leaving Foggy Bottom
+Train Red 1 leaving Gallery Place
+Train Green 1 leaving L'Enfant Plaza
+Train Blue 1 leaving Largo Town Center
+Train Yellow 1 leaving Fort Totten
+Train Orange 1 entering Rosslyn
+Train Red 1 entering Union Station
+Train Green 1 entering Branch Ave
+Train Blue 1 entering Stadium-Armory
+Train Yellow 1 entering Gallery Place
+Train Orange 1 leaving Rosslyn
+Train Red 1 leaving Union Station
+Train Green 1 leaving Branch Ave
+Train Blue 1 leaving Stadium-Armory
+Train Yellow 1 leaving Gallery Place
+Train Orange 1 entering Ballston
+Train Red 1 entering Fort Totten
+Train Green 1 entering L'Enfant Plaza
+Train Blue 1 entering Eastern Market
+Train Yellow 1 entering L'Enfant Plaza
+Sylvester boarding train Blue 1 at Eastern Market
+Train Orange 1 leaving Ballston
+Train Red 1 leaving Fort Totten
+Train Green 1 leaving L'Enfant Plaza
+Train Blue 1 leaving Eastern Market
+Train Yellow 1 leaving L'Enfant Plaza
+Train Orange 1 entering Vienna
+Train Red 1 entering Silver Spring
+Train Green 1 entering Gallery Place
+Train Blue 1 entering L'Enfant Plaza
+Train Yellow 1 entering Pentagon
+Doc leaving train Blue 1 at L'Enfant Plaza
+Sneezy leaving train Blue 1 at L'Enfant Plaza
+Sleepy leaving train Blue 1 at L'Enfant Plaza
+Grumpy leaving train Blue 1 at L'Enfant Plaza
+Train Orange 1 leaving Vienna
+Train Red 1 leaving Silver Spring
+Train Green 1 leaving Gallery Place
+Train Blue 1 leaving L'Enfant Plaza
+Train Yellow 1 leaving Pentagon
+Train Orange 1 entering Ballston
+Train Red 1 entering Glenmont
+Train Green 1 entering Fort Totten
+Train Blue 1 entering Smithsonian
+Train Yellow 1 entering Airport
+Donald leaving train Red 1 at Glenmont
+Sylvester leaving train Blue 1 at Smithsonian
+Minnie boarding train Red 1 at Glenmont
+Mickey boarding train Red 1 at Glenmont
+Train Orange 1 leaving Ballston
+Train Red 1 leaving Glenmont
+Train Green 1 leaving Fort Totten
+Train Blue 1 leaving Smithsonian
+Train Yellow 1 leaving Airport
+Train Orange 1 entering Rosslyn
+Train Red 1 entering Silver Spring
+Train Green 1 entering College Park
+Train Blue 1 entering Metro Center
+Train Yellow 1 entering King Street
+Train Orange 1 leaving Rosslyn
+Train Red 1 leaving Silver Spring
+Train Green 1 leaving College Park
+Train Blue 1 leaving Metro Center
+Train Yellow 1 leaving King Street
+Train Orange 1 entering Foggy Bottom
+Train Red 1 entering Fort Totten
+Train Green 1 entering Greenbelt
+Train Blue 1 entering Foggy Bottom
+Train Yellow 1 entering Huntington
+Train Orange 1 leaving Foggy Bottom
+Train Red 1 leaving Fort Totten
+Train Green 1 leaving Greenbelt
+Train Blue 1 leaving Foggy Bottom
+Train Yellow 1 leaving Huntington
+Train Orange 1 entering Metro Center
+Train Red 1 entering Union Station
+Train Green 1 entering College Park
+Train Blue 1 entering Rosslyn
+Train Yellow 1 entering King Street
+Train Orange 1 leaving Metro Center
+Train Red 1 leaving Union Station
+Train Green 1 leaving College Park
+Train Blue 1 leaving Rosslyn
+Train Yellow 1 leaving King Street
+Train Orange 1 entering Smithsonian
+Train Red 1 entering Gallery Place
+Train Green 1 entering Fort Totten
+Train Blue 1 entering Arlington Cemetery
+Train Yellow 1 entering Airport
+Mickey leaving train Red 1 at Gallery Place
+Train Orange 1 leaving Smithsonian
+Train Red 1 leaving Gallery Place
+Train Green 1 leaving Fort Totten
+Train Blue 1 leaving Arlington Cemetery
+Train Yellow 1 leaving Airport
+Train Orange 1 entering L'Enfant Plaza
+Train Red 1 entering Metro Center
+Train Green 1 entering Gallery Place
+Train Blue 1 entering Pentagon
+Train Yellow 1 entering Pentagon
+Mickey boarding train Green 1 at Gallery Place
+Train Orange 1 leaving L'Enfant Plaza
+Train Red 1 leaving Metro Center
+Train Green 1 leaving Gallery Place
+Train Blue 1 leaving Pentagon
+Train Yellow 1 leaving Pentagon
+Train Orange 1 entering Eastern Market
+Train Red 1 entering Bethesda
+Train Green 1 entering L'Enfant Plaza
+Train Blue 1 entering Airport
+Train Yellow 1 entering L'Enfant Plaza
+Train Orange 1 leaving Eastern Market
+Train Red 1 leaving Bethesda
+Train Green 1 leaving L'Enfant Plaza
+Train Blue 1 leaving Airport
+Train Yellow 1 leaving L'Enfant Plaza
+Train Orange 1 entering Stadium-Armory
+Train Red 1 entering Shady Grove
+Train Green 1 entering Branch Ave
+Train Blue 1 entering King Street
+Train Yellow 1 entering Gallery Place
+Minnie leaving train Red 1 at Shady Grove
+Train Orange 1 leaving Stadium-Armory
+Train Red 1 leaving Shady Grove
+Train Green 1 leaving Branch Ave
+Train Blue 1 leaving King Street
+Train Yellow 1 leaving Gallery Place
+Train Orange 1 entering New Carrolton
+Train Red 1 entering Bethesda
+Train Green 1 entering L'Enfant Plaza
+Train Blue 1 entering Franconia-Springfield
+Train Yellow 1 entering Fort Totten
+Train Orange 1 leaving New Carrolton
+Train Red 1 leaving Bethesda
+Train Green 1 leaving L'Enfant Plaza
+Train Blue 1 leaving Franconia-Springfield
+Train Yellow 1 leaving Fort Totten
+Train Orange 1 entering Stadium-Armory
+Train Red 1 entering Metro Center
+Train Green 1 entering Gallery Place
+Train Blue 1 entering King Street
+Train Yellow 1 entering Gallery Place
+Train Orange 1 leaving Stadium-Armory
+Train Red 1 leaving Metro Center
+Train Green 1 leaving Gallery Place
+Train Blue 1 leaving King Street
+Train Yellow 1 leaving Gallery Place
+Train Orange 1 entering Eastern Market
+Train Red 1 entering Gallery Place
+Train Green 1 entering Fort Totten
+Train Blue 1 entering Airport
+Train Yellow 1 entering L'Enfant Plaza
+Train Orange 1 leaving Eastern Market
+Train Red 1 leaving Gallery Place
+Train Green 1 leaving Fort Totten
+Train Blue 1 leaving Airport
+Train Yellow 1 leaving L'Enfant Plaza
+Train Orange 1 entering L'Enfant Plaza
+Train Red 1 entering Union Station
+Train Green 1 entering College Park
+Train Blue 1 entering Pentagon
+Train Yellow 1 entering Pentagon
+Train Orange 1 leaving L'Enfant Plaza
+Train Red 1 leaving Union Station
+Train Green 1 leaving College Park
+Train Blue 1 leaving Pentagon
+Train Yellow 1 leaving Pentagon
+Train Orange 1 entering Smithsonian
+Train Red 1 entering Fort Totten
+Train Green 1 entering Greenbelt
+Train Blue 1 entering Arlington Cemetery
+Train Yellow 1 entering Airport
+Mickey leaving train Green 1 at Greenbelt
+Train Orange 1 leaving Smithsonian
+Train Red 1 leaving Fort Totten
+Train Green 1 leaving Greenbelt
+Train Blue 1 leaving Arlington Cemetery
+Train Yellow 1 leaving Airport
+Train Orange 1 entering Metro Center
+Train Red 1 entering Silver Spring
+Train Green 1 entering College Park
+Train Blue 1 entering Rosslyn
+Train Yellow 1 entering King Street
+Train Orange 1 leaving Metro Center
+Train Red 1 leaving Silver Spring
+Train Green 1 leaving College Park
+Train Blue 1 leaving Rosslyn
+Train Yellow 1 leaving King Street
+Train Orange 1 entering Foggy Bottom
+Train Red 1 entering Glenmont
+Train Green 1 entering Fort Totten
+Train Blue 1 entering Foggy Bottom
+Train Yellow 1 entering Huntington
+Donald boarding train Red 1 at Glenmont
+Train Orange 1 leaving Foggy Bottom
+Train Red 1 leaving Glenmont
+Train Green 1 leaving Fort Totten
+Train Blue 1 leaving Foggy Bottom
+Train Yellow 1 leaving Huntington
+Train Orange 1 entering Rosslyn
+Train Red 1 entering Silver Spring
+Train Green 1 entering Gallery Place
+Train Blue 1 entering Metro Center
+Train Yellow 1 entering King Street
+Donald leaving train Red 1 at Silver Spring
+Train Orange 1 leaving Rosslyn
+Train Red 1 leaving Silver Spring
+Train Green 1 leaving Gallery Place
+Train Blue 1 leaving Metro Center
+Train Yellow 1 leaving King Street
+Train Orange 1 entering Ballston
+Train Red 1 entering Fort Totten
+Train Green 1 entering L'Enfant Plaza
+Train Blue 1 entering Smithsonian
+Train Yellow 1 entering Airport
+Sylvester boarding train Blue 1 at Smithsonian
+Train Orange 1 leaving Ballston
+Train Red 1 leaving Fort Totten
+Train Green 1 leaving L'Enfant Plaza
+Train Blue 1 leaving Smithsonian
+Train Yellow 1 leaving Airport
+Train Orange 1 entering Vienna
+Train Red 1 entering Union Station
+Train Green 1 entering Branch Ave
+Train Blue 1 entering L'Enfant Plaza
+Train Yellow 1 entering Pentagon
+Doc boarding train Blue 1 at L'Enfant Plaza
+Sneezy boarding train Blue 1 at L'Enfant Plaza
+Sleepy boarding train Blue 1 at L'Enfant Plaza
+Grumpy boarding train Blue 1 at L'Enfant Plaza
+Train Orange 1 leaving Vienna
+Train Red 1 leaving Union Station
+Train Green 1 leaving Branch Ave
+Train Blue 1 leaving L'Enfant Plaza
+Train Yellow 1 leaving Pentagon
+Train Orange 1 entering Ballston
+Train Red 1 entering Gallery Place
+Train Green 1 entering L'Enfant Plaza
+Train Blue 1 entering Eastern Market
+Train Yellow 1 entering L'Enfant Plaza
+Doc leaving train Blue 1 at Eastern Market
+Sneezy leaving train Blue 1 at Eastern Market
+Sleepy leaving train Blue 1 at Eastern Market
+Grumpy leaving train Blue 1 at Eastern Market
+Train Orange 1 leaving Ballston
+Train Red 1 leaving Gallery Place
+Train Green 1 leaving L'Enfant Plaza
+Train Blue 1 leaving Eastern Market
+Train Yellow 1 leaving L'Enfant Plaza
+Train Orange 1 entering Rosslyn
+Train Red 1 entering Metro Center
+Train Green 1 entering Gallery Place
+Train Blue 1 entering Stadium-Armory
+Train Yellow 1 entering Gallery Place
+Train Orange 1 leaving Rosslyn
+Train Red 1 leaving Metro Center
+Train Green 1 leaving Gallery Place
+Train Blue 1 leaving Stadium-Armory
+Train Yellow 1 leaving Gallery Place
+Train Orange 1 entering Foggy Bottom
+Train Red 1 entering Bethesda
+Train Green 1 entering Fort Totten
+Train Blue 1 entering Largo Town Center
+Train Yellow 1 entering Fort Totten
+Train Orange 1 leaving Foggy Bottom
+Train Red 1 leaving Bethesda
+Train Green 1 leaving Fort Totten
+Train Blue 1 leaving Largo Town Center
+Train Yellow 1 leaving Fort Totten
+Train Orange 1 entering Metro Center
+Train Red 1 entering Shady Grove
+Train Green 1 entering College Park
+Train Blue 1 entering Stadium-Armory
+Train Yellow 1 entering Gallery Place
+Train Orange 1 leaving Metro Center
+Train Red 1 leaving Shady Grove
+Train Green 1 leaving College Park
+Train Blue 1 leaving Stadium-Armory
+Train Yellow 1 leaving Gallery Place
+Train Orange 1 entering Smithsonian
+Train Red 1 entering Bethesda
+Train Green 1 entering Greenbelt
+Train Blue 1 entering Eastern Market
+Train Yellow 1 entering L'Enfant Plaza
+Doc boarding train Blue 1 at Eastern Market
+Sneezy boarding train Blue 1 at Eastern Market
+Sleepy boarding train Blue 1 at Eastern Market
+Grumpy boarding train Blue 1 at Eastern Market
+Train Orange 1 leaving Smithsonian
+Train Red 1 leaving Bethesda
+Train Green 1 leaving Greenbelt
+Train Blue 1 leaving Eastern Market
+Train Yellow 1 leaving L'Enfant Plaza
+Train Orange 1 entering L'Enfant Plaza
+Train Red 1 entering Metro Center
+Train Green 1 entering College Park
+Train Blue 1 entering L'Enfant Plaza
+Train Yellow 1 entering Pentagon
+Train Orange 1 leaving L'Enfant Plaza
+Train Red 1 leaving Metro Center
+Train Green 1 leaving College Park
+Train Blue 1 leaving L'Enfant Plaza
+Train Yellow 1 leaving Pentagon
+Train Orange 1 entering Eastern Market
+Train Red 1 entering Gallery Place
+Train Green 1 entering Fort Totten
+Train Blue 1 entering Smithsonian
+Train Yellow 1 entering Airport
+Doc leaving train Blue 1 at Smithsonian
+Sneezy leaving train Blue 1 at Smithsonian
+Sleepy leaving train Blue 1 at Smithsonian
+Grumpy leaving train Blue 1 at Smithsonian
+Train Orange 1 leaving Eastern Market
+Train Red 1 leaving Gallery Place
+Train Green 1 leaving Fort Totten
+Train Blue 1 leaving Smithsonian
+Train Yellow 1 leaving Airport
+Train Orange 1 entering Stadium-Armory
+Train Red 1 entering Union Station
+Train Green 1 entering Gallery Place
+Train Blue 1 entering Metro Center
+Train Yellow 1 entering King Street
+Sylvester leaving train Blue 1 at Metro Center
+Train Orange 1 leaving Stadium-Armory
+Train Red 1 leaving Union Station
+Train Green 1 leaving Gallery Place
+Train Blue 1 leaving Metro Center
+Train Yellow 1 leaving King Street
+Train Orange 1 entering New Carrolton
+Train Red 1 entering Fort Totten
+Train Green 1 entering L'Enfant Plaza
+Train Blue 1 entering Foggy Bottom
+Train Yellow 1 entering Huntington
+Train Orange 1 leaving New Carrolton
+Train Red 1 leaving Fort Totten
+Train Green 1 leaving L'Enfant Plaza
+Train Blue 1 leaving Foggy Bottom
+Train Yellow 1 leaving Huntington
+Train Orange 1 entering Stadium-Armory
+Train Red 1 entering Silver Spring
+Train Green 1 entering Branch Ave
+Train Blue 1 entering Rosslyn
+Train Yellow 1 entering King Street
+Train Orange 1 leaving Stadium-Armory
+Train Red 1 leaving Silver Spring
+Train Green 1 leaving Branch Ave
+Train Blue 1 leaving Rosslyn
+Train Yellow 1 leaving King Street
+Train Orange 1 entering Eastern Market
+Train Red 1 entering Glenmont
+Train Green 1 entering L'Enfant Plaza
+Train Blue 1 entering Arlington Cemetery
+Train Yellow 1 entering Airport
+Train Orange 1 leaving Eastern Market
+Train Red 1 leaving Glenmont
+Train Green 1 leaving L'Enfant Plaza
+Train Blue 1 leaving Arlington Cemetery
+Train Yellow 1 leaving Airport
+Train Orange 1 entering L'Enfant Plaza
+Train Red 1 entering Silver Spring
+Train Green 1 entering Gallery Place
+Train Blue 1 entering Pentagon
+Train Yellow 1 entering Pentagon
+Train Orange 1 leaving L'Enfant Plaza
+Train Red 1 leaving Silver Spring
+Train Green 1 leaving Gallery Place
+Train Blue 1 leaving Pentagon
+Train Yellow 1 leaving Pentagon
+Train Orange 1 entering Smithsonian
+Train Red 1 entering Fort Totten
+Train Green 1 entering Fort Totten
+Train Blue 1 entering Airport
+Train Yellow 1 entering L'Enfant Plaza
+Train Orange 1 leaving Smithsonian
+Train Red 1 leaving Fort Totten
+Train Green 1 leaving Fort Totten
+Train Blue 1 leaving Airport
+Train Yellow 1 leaving L'Enfant Plaza
+Train Orange 1 entering Metro Center
+Train Red 1 entering Union Station
+Train Green 1 entering College Park
+Train Blue 1 entering King Street
+Train Yellow 1 entering Gallery Place
+Train Orange 1 leaving Metro Center
+Train Red 1 leaving Union Station
+Train Green 1 leaving College Park
+Train Blue 1 leaving King Street
+Train Yellow 1 leaving Gallery Place
+Train Orange 1 entering Foggy Bottom
+Train Red 1 entering Gallery Place
+Train Green 1 entering Greenbelt
+Train Blue 1 entering Franconia-Springfield
+Train Yellow 1 entering Fort Totten
+Train Orange 1 leaving Foggy Bottom
+Train Red 1 leaving Gallery Place
+Train Green 1 leaving Greenbelt
+Train Blue 1 leaving Franconia-Springfield
+Train Yellow 1 leaving Fort Totten
+Train Orange 1 entering Rosslyn
+Train Red 1 entering Metro Center
+Train Green 1 entering College Park
+Train Blue 1 entering King Street
+Train Yellow 1 entering Gallery Place
+Sylvester boarding train Red 1 at Metro Center
+Train Orange 1 leaving Rosslyn
+Train Red 1 leaving Metro Center
+Train Green 1 leaving College Park
+Train Blue 1 leaving King Street
+Train Yellow 1 leaving Gallery Place
+Train Orange 1 entering Ballston
+Train Red 1 entering Bethesda
+Train Green 1 entering Fort Totten
+Train Blue 1 entering Airport
+Train Yellow 1 entering L'Enfant Plaza
+Train Orange 1 leaving Ballston
+Train Red 1 leaving Bethesda
+Train Green 1 leaving Fort Totten
+Train Blue 1 leaving Airport
+Train Yellow 1 leaving L'Enfant Plaza
+Train Orange 1 entering Vienna
+Train Red 1 entering Shady Grove
+Train Green 1 entering Gallery Place
+Train Blue 1 entering Pentagon
+Train Yellow 1 entering Pentagon
+Train Orange 1 leaving Vienna
+Train Red 1 leaving Shady Grove
+Train Green 1 leaving Gallery Place
+Train Blue 1 leaving Pentagon
+Train Yellow 1 leaving Pentagon
+Train Orange 1 entering Ballston
+Train Red 1 entering Bethesda
+Train Green 1 entering L'Enfant Plaza
+Train Blue 1 entering Arlington Cemetery
+Train Yellow 1 entering Airport
+Train Orange 1 leaving Ballston
+Train Red 1 leaving Bethesda
+Train Green 1 leaving L'Enfant Plaza
+Train Blue 1 leaving Arlington Cemetery
+Train Yellow 1 leaving Airport
+Train Orange 1 entering Rosslyn
+Train Red 1 entering Metro Center
+Train Green 1 entering Branch Ave
+Train Blue 1 entering Rosslyn
+Train Yellow 1 entering King Street
+Train Orange 1 leaving Rosslyn
+Train Red 1 leaving Metro Center
+Train Green 1 leaving Branch Ave
+Train Blue 1 leaving Rosslyn
+Train Yellow 1 leaving King Street
+Train Orange 1 entering Foggy Bottom
+Train Red 1 entering Gallery Place
+Train Green 1 entering L'Enfant Plaza
+Train Blue 1 entering Foggy Bottom
+Train Yellow 1 entering Huntington
+Train Orange 1 leaving Foggy Bottom
+Train Red 1 leaving Gallery Place
+Train Green 1 leaving L'Enfant Plaza
+Train Blue 1 leaving Foggy Bottom
+Train Yellow 1 leaving Huntington
+Train Orange 1 entering Metro Center
+Train Red 1 entering Union Station
+Train Green 1 entering Gallery Place
+Train Blue 1 entering Metro Center
+Train Yellow 1 entering King Street
+Train Orange 1 leaving Metro Center
+Train Red 1 leaving Union Station
+Train Green 1 leaving Gallery Place
+Train Blue 1 leaving Metro Center
+Train Yellow 1 leaving King Street
+Train Orange 1 entering Smithsonian
+Train Red 1 entering Fort Totten
+Train Green 1 entering Fort Totten
+Train Blue 1 entering Smithsonian
+Train Yellow 1 entering Airport
+Doc boarding train Blue 1 at Smithsonian
+Sneezy boarding train Blue 1 at Smithsonian
+Sylvester leaving train Red 1 at Fort Totten
+Sleepy boarding train Blue 1 at Smithsonian
+Grumpy boarding train Blue 1 at Smithsonian
+Sylvester boarding train Green 1 at Fort Totten
+Train Orange 1 leaving Smithsonian
+Train Red 1 leaving Fort Totten
+Train Blue 1 leaving Smithsonian
+Train Yellow 1 leaving Airport
+Train Green 1 leaving Fort Totten
+Train Orange 1 entering L'Enfant Plaza
+Train Red 1 entering Silver Spring
+Train Blue 1 entering L'Enfant Plaza
+Train Yellow 1 entering Pentagon
+Train Green 1 entering College Park
+Sylvester leaving train Green 1 at College Park
+Train Orange 1 leaving L'Enfant Plaza
+Train Red 1 leaving Silver Spring
+Train Green 1 leaving College Park
+Train Blue 1 leaving L'Enfant Plaza
+Train Yellow 1 leaving Pentagon
+Train Orange 1 entering Eastern Market
+Train Red 1 entering Glenmont
+Train Green 1 entering Greenbelt
+Train Blue 1 entering Eastern Market
+Train Yellow 1 entering L'Enfant Plaza
+Train Orange 1 leaving Eastern Market
+Train Red 1 leaving Glenmont
+Train Green 1 leaving Greenbelt
+Train Blue 1 leaving Eastern Market
+Train Yellow 1 leaving L'Enfant Plaza
+Train Orange 1 entering Stadium-Armory
+Train Red 1 entering Silver Spring
+Train Green 1 entering College Park
+Train Blue 1 entering Stadium-Armory
+Train Yellow 1 entering Gallery Place
+Train Orange 1 leaving Stadium-Armory
+Train Red 1 leaving Silver Spring
+Train Green 1 leaving College Park
+Train Blue 1 leaving Stadium-Armory
+Train Yellow 1 leaving Gallery Place
+Train Orange 1 entering New Carrolton
+Train Red 1 entering Fort Totten
+Train Green 1 entering Fort Totten
+Train Blue 1 entering Largo Town Center
+Train Yellow 1 entering Fort Totten
+Train Orange 1 leaving New Carrolton
+Train Red 1 leaving Fort Totten
+Train Green 1 leaving Fort Totten
+Train Blue 1 leaving Largo Town Center
+Train Yellow 1 leaving Fort Totten
+Train Orange 1 entering Stadium-Armory
+Train Red 1 entering Union Station
+Train Green 1 entering Gallery Place
+Train Blue 1 entering Stadium-Armory
+Train Yellow 1 entering Gallery Place
+Train Orange 1 leaving Stadium-Armory
+Train Red 1 leaving Union Station
+Train Green 1 leaving Gallery Place
+Train Blue 1 leaving Stadium-Armory
+Train Yellow 1 leaving Gallery Place
+Train Orange 1 entering Eastern Market
+Train Red 1 entering Gallery Place
+Train Green 1 entering L'Enfant Plaza
+Train Blue 1 entering Eastern Market
+Train Yellow 1 entering L'Enfant Plaza
+Train Orange 1 leaving Eastern Market
+Train Red 1 leaving Gallery Place
+Train Green 1 leaving L'Enfant Plaza
+Train Blue 1 leaving Eastern Market
+Train Yellow 1 leaving L'Enfant Plaza
+Train Orange 1 entering L'Enfant Plaza
+Train Red 1 entering Metro Center
+Train Green 1 entering Branch Ave
+Train Blue 1 entering L'Enfant Plaza
+Train Yellow 1 entering Pentagon
+Train Orange 1 leaving L'Enfant Plaza
+Train Red 1 leaving Metro Center
+Train Green 1 leaving Branch Ave
+Train Blue 1 leaving L'Enfant Plaza
+Train Yellow 1 leaving Pentagon
+Train Orange 1 entering Smithsonian
+Train Red 1 entering Bethesda
+Train Green 1 entering L'Enfant Plaza
+Train Blue 1 entering Smithsonian
+Train Yellow 1 entering Airport
+Train Orange 1 leaving Smithsonian
+Train Red 1 leaving Bethesda
+Train Green 1 leaving L'Enfant Plaza
+Train Blue 1 leaving Smithsonian
+Train Yellow 1 leaving Airport
+Train Orange 1 entering Metro Center
+Train Red 1 entering Shady Grove
+Train Green 1 entering Gallery Place
+Train Blue 1 entering Metro Center
+Train Yellow 1 entering King Street
+Doc leaving train Blue 1 at Metro Center
+Sneezy leaving train Blue 1 at Metro Center
+Sleepy leaving train Blue 1 at Metro Center
+Grumpy leaving train Blue 1 at Metro Center
+Train Orange 1 leaving Metro Center
+Train Red 1 leaving Shady Grove
+Train Green 1 leaving Gallery Place
+Train Blue 1 leaving Metro Center
+Train Yellow 1 leaving King Street
+Train Orange 1 entering Foggy Bottom
+Train Red 1 entering Bethesda
+Train Green 1 entering Fort Totten
+Train Blue 1 entering Foggy Bottom
+Train Yellow 1 entering Huntington
+Train Orange 1 leaving Foggy Bottom
+Train Red 1 leaving Bethesda
+Train Green 1 leaving Fort Totten
+Train Blue 1 leaving Foggy Bottom
+Train Yellow 1 leaving Huntington
+Train Orange 1 entering Rosslyn
+Train Red 1 entering Metro Center
+Train Green 1 entering College Park
+Train Blue 1 entering Rosslyn
+Train Yellow 1 entering King Street
+Doc boarding train Red 1 at Metro Center
+Sneezy boarding train Red 1 at Metro Center
+Sleepy boarding train Red 1 at Metro Center
+Grumpy boarding train Red 1 at Metro Center
+Train Orange 1 leaving Rosslyn
+Train Red 1 leaving Metro Center
+Train Green 1 leaving College Park
+Train Blue 1 leaving Rosslyn
+Train Yellow 1 leaving King Street
+Train Orange 1 entering Ballston
+Train Red 1 entering Gallery Place
+Train Green 1 entering Greenbelt
+Train Blue 1 entering Arlington Cemetery
+Train Yellow 1 entering Airport
+Train Orange 1 leaving Ballston
+Train Red 1 leaving Gallery Place
+Train Green 1 leaving Greenbelt
+Train Blue 1 leaving Arlington Cemetery
+Train Yellow 1 leaving Airport
+Train Orange 1 entering Vienna
+Train Red 1 entering Union Station
+Train Green 1 entering College Park
+Train Blue 1 entering Pentagon
+Train Yellow 1 entering Pentagon
+Train Orange 1 leaving Vienna
+Train Red 1 leaving Union Station
+Train Green 1 leaving College Park
+Train Blue 1 leaving Pentagon
+Train Yellow 1 leaving Pentagon
+Train Orange 1 entering Ballston
+Train Red 1 entering Fort Totten
+Train Green 1 entering Fort Totten
+Train Blue 1 entering Airport
+Train Yellow 1 entering L'Enfant Plaza
+Doc leaving train Red 1 at Fort Totten
+Sneezy leaving train Red 1 at Fort Totten
+Sleepy leaving train Red 1 at Fort Totten
+Grumpy leaving train Red 1 at Fort Totten
+Train Orange 1 leaving Ballston
+Train Red 1 leaving Fort Totten
+Train Green 1 leaving Fort Totten
+Train Blue 1 leaving Airport
+Train Yellow 1 leaving L'Enfant Plaza
+Train Orange 1 entering Rosslyn
+Train Red 1 entering Silver Spring
+Train Green 1 entering Gallery Place
+Train Blue 1 entering King Street
+Train Yellow 1 entering Gallery Place
+Train Orange 1 leaving Rosslyn
+Train Red 1 leaving Silver Spring
+Train Green 1 leaving Gallery Place
+Train Blue 1 leaving King Street
+Train Yellow 1 leaving Gallery Place
+Train Orange 1 entering Foggy Bottom
+Train Red 1 entering Glenmont
+Train Green 1 entering L'Enfant Plaza
+Train Blue 1 entering Franconia-Springfield
+Train Yellow 1 entering Fort Totten
+Train Orange 1 leaving Foggy Bottom
+Train Red 1 leaving Glenmont
+Train Green 1 leaving L'Enfant Plaza
+Train Blue 1 leaving Franconia-Springfield
+Train Yellow 1 leaving Fort Totten
+Train Orange 1 entering Metro Center
+Train Red 1 entering Silver Spring
+Train Green 1 entering Branch Ave
+Train Blue 1 entering King Street
+Train Yellow 1 entering Gallery Place
+Train Orange 1 leaving Metro Center
+Train Red 1 leaving Silver Spring
+Train Green 1 leaving Branch Ave
+Train Blue 1 leaving King Street
+Train Yellow 1 leaving Gallery Place
+Train Orange 1 entering Smithsonian
+Train Red 1 entering Fort Totten
+Train Green 1 entering L'Enfant Plaza
+Train Blue 1 entering Airport
+Train Yellow 1 entering L'Enfant Plaza
+Train Orange 1 leaving Smithsonian
+Train Red 1 leaving Fort Totten
+Train Green 1 leaving L'Enfant Plaza
+Train Blue 1 leaving Airport
+Train Yellow 1 leaving L'Enfant Plaza
+Train Orange 1 entering L'Enfant Plaza
+Train Red 1 entering Union Station
+Train Green 1 entering Gallery Place
+Train Blue 1 entering Pentagon
+Train Yellow 1 entering Pentagon
+Train Orange 1 leaving L'Enfant Plaza
+Train Red 1 leaving Union Station
+Train Green 1 leaving Gallery Place
+Train Blue 1 leaving Pentagon
+Train Yellow 1 leaving Pentagon
+Train Orange 1 entering Eastern Market
+Train Red 1 entering Gallery Place
+Train Green 1 entering Fort Totten
+Train Blue 1 entering Arlington Cemetery
+Train Yellow 1 entering Airport
+Doc boarding train Green 1 at Fort Totten
+Sneezy boarding train Green 1 at Fort Totten
+Sleepy boarding train Green 1 at Fort Totten
+Grumpy boarding train Green 1 at Fort Totten
+Train Orange 1 leaving Eastern Market
+Train Red 1 leaving Gallery Place
+Train Green 1 leaving Fort Totten
+Train Blue 1 leaving Arlington Cemetery
+Train Yellow 1 leaving Airport
+Train Orange 1 entering Stadium-Armory
+Train Red 1 entering Metro Center
+Train Green 1 entering College Park
+Train Blue 1 entering Rosslyn
+Train Yellow 1 entering King Street
+Doc leaving train Green 1 at College Park
+Sneezy leaving train Green 1 at College Park
+Sleepy leaving train Green 1 at College Park
+Grumpy leaving train Green 1 at College Park

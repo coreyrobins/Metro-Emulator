@@ -1,0 +1,245 @@
+%
+% public08 - a single line with a single train and multiple
+%            passengers with multiple stops on their
+%            itineraries
+%
+=== Lines ===
+Blue, Largo Town Center, Stadium-Armory, Eastern Market, L'Enfant Plaza, Smithsonian, Metro Center, Foggy Bottom, Rosslyn, Arlington Cemetery, Pentagon, Airport, King Street, Franconia-Springfield
+=== Trains ===
+Blue=1
+=== Passenger Limit ===
+limit=10
+=== Passengers ===
+Bill, Largo Town Center, Franconia-Springfield, Arlington Cemetery, Metro Center, King Street
+Brad, Franconia-Springfield, Largo Town Center, Rosslyn, Largo Town Center, Foggy Bottom
+Ben, Stadium-Armory, Eastern Market, Metro Center, Foggy Bottom, Rosslyn
+=== Output ===
+Train Blue 1 entering Largo Town Center
+Bill boarding train Blue 1 at Largo Town Center
+Train Blue 1 leaving Largo Town Center
+Train Blue 1 entering Stadium-Armory
+Ben boarding train Blue 1 at Stadium-Armory
+Train Blue 1 leaving Stadium-Armory
+Train Blue 1 entering Eastern Market
+Ben leaving train Blue 1 at Eastern Market
+Train Blue 1 leaving Eastern Market
+Train Blue 1 entering L'Enfant Plaza
+Train Blue 1 leaving L'Enfant Plaza
+Train Blue 1 entering Smithsonian
+Train Blue 1 leaving Smithsonian
+Train Blue 1 entering Metro Center
+Train Blue 1 leaving Metro Center
+Train Blue 1 entering Foggy Bottom
+Train Blue 1 leaving Foggy Bottom
+Train Blue 1 entering Rosslyn
+Train Blue 1 leaving Rosslyn
+Train Blue 1 entering Arlington Cemetery
+Train Blue 1 leaving Arlington Cemetery
+Train Blue 1 entering Pentagon
+Train Blue 1 leaving Pentagon
+Train Blue 1 entering Airport
+Train Blue 1 leaving Airport
+Train Blue 1 entering King Street
+Train Blue 1 leaving King Street
+Train Blue 1 entering Franconia-Springfield
+Brad boarding train Blue 1 at Franconia-Springfield
+Bill leaving train Blue 1 at Franconia-Springfield
+Train Blue 1 leaving Franconia-Springfield
+Train Blue 1 entering King Street
+Train Blue 1 leaving King Street
+Train Blue 1 entering Airport
+Train Blue 1 leaving Airport
+Train Blue 1 entering Pentagon
+Train Blue 1 leaving Pentagon
+Train Blue 1 entering Arlington Cemetery
+Train Blue 1 leaving Arlington Cemetery
+Train Blue 1 entering Rosslyn
+Train Blue 1 leaving Rosslyn
+Train Blue 1 entering Foggy Bottom
+Train Blue 1 leaving Foggy Bottom
+Train Blue 1 entering Metro Center
+Train Blue 1 leaving Metro Center
+Train Blue 1 entering Smithsonian
+Train Blue 1 leaving Smithsonian
+Train Blue 1 entering L'Enfant Plaza
+Train Blue 1 leaving L'Enfant Plaza
+Train Blue 1 entering Eastern Market
+Ben boarding train Blue 1 at Eastern Market
+Train Blue 1 leaving Eastern Market
+Train Blue 1 entering Stadium-Armory
+Train Blue 1 leaving Stadium-Armory
+Train Blue 1 entering Largo Town Center
+Brad leaving train Blue 1 at Largo Town Center
+Train Blue 1 leaving Largo Town Center
+Train Blue 1 entering Stadium-Armory
+Train Blue 1 leaving Stadium-Armory
+Train Blue 1 entering Eastern Market
+Train Blue 1 leaving Eastern Market
+Train Blue 1 entering L'Enfant Plaza
+Train Blue 1 leaving L'Enfant Plaza
+Train Blue 1 entering Smithsonian
+Train Blue 1 leaving Smithsonian
+Train Blue 1 entering Metro Center
+Ben leaving train Blue 1 at Metro Center
+Train Blue 1 leaving Metro Center
+Train Blue 1 entering Foggy Bottom
+Train Blue 1 leaving Foggy Bottom
+Train Blue 1 entering Rosslyn
+Train Blue 1 leaving Rosslyn
+Train Blue 1 entering Arlington Cemetery
+Train Blue 1 leaving Arlington Cemetery
+Train Blue 1 entering Pentagon
+Train Blue 1 leaving Pentagon
+Train Blue 1 entering Airport
+Train Blue 1 leaving Airport
+Train Blue 1 entering King Street
+Train Blue 1 leaving King Street
+Train Blue 1 entering Franconia-Springfield
+Bill boarding train Blue 1 at Franconia-Springfield
+Train Blue 1 leaving Franconia-Springfield
+Train Blue 1 entering King Street
+Train Blue 1 leaving King Street
+Train Blue 1 entering Airport
+Train Blue 1 leaving Airport
+Train Blue 1 entering Pentagon
+Train Blue 1 leaving Pentagon
+Train Blue 1 entering Arlington Cemetery
+Bill leaving train Blue 1 at Arlington Cemetery
+Train Blue 1 leaving Arlington Cemetery
+Train Blue 1 entering Rosslyn
+Train Blue 1 leaving Rosslyn
+Train Blue 1 entering Foggy Bottom
+Train Blue 1 leaving Foggy Bottom
+Train Blue 1 entering Metro Center
+Ben boarding train Blue 1 at Metro Center
+Train Blue 1 leaving Metro Center
+Train Blue 1 entering Smithsonian
+Train Blue 1 leaving Smithsonian
+Train Blue 1 entering L'Enfant Plaza
+Train Blue 1 leaving L'Enfant Plaza
+Train Blue 1 entering Eastern Market
+Train Blue 1 leaving Eastern Market
+Train Blue 1 entering Stadium-Armory
+Train Blue 1 leaving Stadium-Armory
+Train Blue 1 entering Largo Town Center
+Brad boarding train Blue 1 at Largo Town Center
+Train Blue 1 leaving Largo Town Center
+Train Blue 1 entering Stadium-Armory
+Train Blue 1 leaving Stadium-Armory
+Train Blue 1 entering Eastern Market
+Train Blue 1 leaving Eastern Market
+Train Blue 1 entering L'Enfant Plaza
+Train Blue 1 leaving L'Enfant Plaza
+Train Blue 1 entering Smithsonian
+Train Blue 1 leaving Smithsonian
+Train Blue 1 entering Metro Center
+Train Blue 1 leaving Metro Center
+Train Blue 1 entering Foggy Bottom
+Ben leaving train Blue 1 at Foggy Bottom
+Train Blue 1 leaving Foggy Bottom
+Train Blue 1 entering Rosslyn
+Brad leaving train Blue 1 at Rosslyn
+Train Blue 1 leaving Rosslyn
+Train Blue 1 entering Arlington Cemetery
+Bill boarding train Blue 1 at Arlington Cemetery
+Train Blue 1 leaving Arlington Cemetery
+Train Blue 1 entering Pentagon
+Train Blue 1 leaving Pentagon
+Train Blue 1 entering Airport
+Train Blue 1 leaving Airport
+Train Blue 1 entering King Street
+Train Blue 1 leaving King Street
+Train Blue 1 entering Franconia-Springfield
+Train Blue 1 leaving Franconia-Springfield
+Train Blue 1 entering King Street
+Train Blue 1 leaving King Street
+Train Blue 1 entering Airport
+Train Blue 1 leaving Airport
+Train Blue 1 entering Pentagon
+Train Blue 1 leaving Pentagon
+Train Blue 1 entering Arlington Cemetery
+Train Blue 1 leaving Arlington Cemetery
+Train Blue 1 entering Rosslyn
+Brad boarding train Blue 1 at Rosslyn
+Train Blue 1 leaving Rosslyn
+Train Blue 1 entering Foggy Bottom
+Ben boarding train Blue 1 at Foggy Bottom
+Train Blue 1 leaving Foggy Bottom
+Train Blue 1 entering Metro Center
+Bill leaving train Blue 1 at Metro Center
+Train Blue 1 leaving Metro Center
+Train Blue 1 entering Smithsonian
+Train Blue 1 leaving Smithsonian
+Train Blue 1 entering L'Enfant Plaza
+Train Blue 1 leaving L'Enfant Plaza
+Train Blue 1 entering Eastern Market
+Train Blue 1 leaving Eastern Market
+Train Blue 1 entering Stadium-Armory
+Train Blue 1 leaving Stadium-Armory
+Train Blue 1 entering Largo Town Center
+Brad leaving train Blue 1 at Largo Town Center
+Train Blue 1 leaving Largo Town Center
+Train Blue 1 entering Stadium-Armory
+Train Blue 1 leaving Stadium-Armory
+Train Blue 1 entering Eastern Market
+Train Blue 1 leaving Eastern Market
+Train Blue 1 entering L'Enfant Plaza
+Train Blue 1 leaving L'Enfant Plaza
+Train Blue 1 entering Smithsonian
+Train Blue 1 leaving Smithsonian
+Train Blue 1 entering Metro Center
+Bill boarding train Blue 1 at Metro Center
+Train Blue 1 leaving Metro Center
+Train Blue 1 entering Foggy Bottom
+Train Blue 1 leaving Foggy Bottom
+Train Blue 1 entering Rosslyn
+Ben leaving train Blue 1 at Rosslyn
+Train Blue 1 leaving Rosslyn
+Train Blue 1 entering Arlington Cemetery
+Train Blue 1 leaving Arlington Cemetery
+Train Blue 1 entering Pentagon
+Train Blue 1 leaving Pentagon
+Train Blue 1 entering Airport
+Train Blue 1 leaving Airport
+Train Blue 1 entering King Street
+Bill leaving train Blue 1 at King Street
+Train Blue 1 leaving King Street
+Train Blue 1 entering Franconia-Springfield
+Train Blue 1 leaving Franconia-Springfield
+Train Blue 1 entering King Street
+Train Blue 1 leaving King Street
+Train Blue 1 entering Airport
+Train Blue 1 leaving Airport
+Train Blue 1 entering Pentagon
+Train Blue 1 leaving Pentagon
+Train Blue 1 entering Arlington Cemetery
+Train Blue 1 leaving Arlington Cemetery
+Train Blue 1 entering Rosslyn
+Train Blue 1 leaving Rosslyn
+Train Blue 1 entering Foggy Bottom
+Train Blue 1 leaving Foggy Bottom
+Train Blue 1 entering Metro Center
+Train Blue 1 leaving Metro Center
+Train Blue 1 entering Smithsonian
+Train Blue 1 leaving Smithsonian
+Train Blue 1 entering L'Enfant Plaza
+Train Blue 1 leaving L'Enfant Plaza
+Train Blue 1 entering Eastern Market
+Train Blue 1 leaving Eastern Market
+Train Blue 1 entering Stadium-Armory
+Train Blue 1 leaving Stadium-Armory
+Train Blue 1 entering Largo Town Center
+Brad boarding train Blue 1 at Largo Town Center
+Train Blue 1 leaving Largo Town Center
+Train Blue 1 entering Stadium-Armory
+Train Blue 1 leaving Stadium-Armory
+Train Blue 1 entering Eastern Market
+Train Blue 1 leaving Eastern Market
+Train Blue 1 entering L'Enfant Plaza
+Train Blue 1 leaving L'Enfant Plaza
+Train Blue 1 entering Smithsonian
+Train Blue 1 leaving Smithsonian
+Train Blue 1 entering Metro Center
+Train Blue 1 leaving Metro Center
+Train Blue 1 entering Foggy Bottom
+Brad leaving train Blue 1 at Foggy Bottom

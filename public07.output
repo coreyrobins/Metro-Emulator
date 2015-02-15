@@ -1,0 +1,816 @@
+% simulate.rb display public07.input 
+Blue
+          Largo Town Center                      
+             Stadium-Armory                      
+             Eastern Market                      
+             L'Enfant Plaza                      
+                Smithsonian                      
+               Metro Center                      
+               Foggy Bottom                      
+                    Rosslyn                      
+         Arlington Cemetery                      
+                   Pentagon                      
+                    Airport                      
+                King Street                      
+      Franconia-Springfield                      
+
+Train Blue 1 entering Largo Town Center
+Blue
+          Largo Town Center            [Blue 1]  
+             Stadium-Armory                      
+             Eastern Market                      
+             L'Enfant Plaza                      
+                Smithsonian                      
+               Metro Center                      
+               Foggy Bottom                      
+                    Rosslyn                      
+         Arlington Cemetery                      
+                   Pentagon                      
+                    Airport                      
+                King Street                      
+      Franconia-Springfield                      
+
+Train Blue 1 leaving Largo Town Center
+Blue
+          Largo Town Center                      
+             Stadium-Armory                      
+             Eastern Market                      
+             L'Enfant Plaza                      
+                Smithsonian                      
+               Metro Center                      
+               Foggy Bottom                      
+                    Rosslyn                      
+         Arlington Cemetery                      
+                   Pentagon                      
+                    Airport                      
+                King Street                      
+      Franconia-Springfield                      
+
+Train Blue 1 entering Stadium-Armory
+Blue
+          Largo Town Center                      
+             Stadium-Armory            [Blue 1]  
+             Eastern Market                      
+             L'Enfant Plaza                      
+                Smithsonian                      
+               Metro Center                      
+               Foggy Bottom                      
+                    Rosslyn                      
+         Arlington Cemetery                      
+                   Pentagon                      
+                    Airport                      
+                King Street                      
+      Franconia-Springfield                      
+
+Train Blue 1 leaving Stadium-Armory
+Blue
+          Largo Town Center                      
+             Stadium-Armory                      
+             Eastern Market                      
+             L'Enfant Plaza                      
+                Smithsonian                      
+               Metro Center                      
+               Foggy Bottom                      
+                    Rosslyn                      
+         Arlington Cemetery                      
+                   Pentagon                      
+                    Airport                      
+                King Street                      
+      Franconia-Springfield                      
+
+Train Blue 1 entering Eastern Market
+Blue
+          Largo Town Center                      
+             Stadium-Armory                      
+             Eastern Market            [Blue 1]  
+             L'Enfant Plaza                      
+                Smithsonian                      
+               Metro Center                      
+               Foggy Bottom                      
+                    Rosslyn                      
+         Arlington Cemetery                      
+                   Pentagon                      
+                    Airport                      
+                King Street                      
+      Franconia-Springfield                      
+
+Train Blue 1 leaving Eastern Market
+Blue
+          Largo Town Center                      
+             Stadium-Armory                      
+             Eastern Market                      
+             L'Enfant Plaza                      
+                Smithsonian                      
+               Metro Center                      
+               Foggy Bottom                      
+                    Rosslyn                      
+         Arlington Cemetery                      
+                   Pentagon                      
+                    Airport                      
+                King Street                      
+      Franconia-Springfield                      
+
+Train Blue 1 entering L'Enfant Plaza
+Blue
+          Largo Town Center                      
+             Stadium-Armory                      
+             Eastern Market                      
+             L'Enfant Plaza            [Blue 1]  
+                Smithsonian                      
+               Metro Center                      
+               Foggy Bottom                      
+                    Rosslyn                      
+         Arlington Cemetery                      
+                   Pentagon                      
+                    Airport                      
+                King Street                      
+      Franconia-Springfield                      
+
+Train Blue 1 leaving L'Enfant Plaza
+Blue
+          Largo Town Center                      
+             Stadium-Armory                      
+             Eastern Market                      
+             L'Enfant Plaza                      
+                Smithsonian                      
+               Metro Center                      
+               Foggy Bottom                      
+                    Rosslyn                      
+         Arlington Cemetery                      
+                   Pentagon                      
+                    Airport                      
+                King Street                      
+      Franconia-Springfield                      
+
+Train Blue 1 entering Smithsonian
+Blue
+          Largo Town Center                      
+             Stadium-Armory                      
+             Eastern Market                      
+             L'Enfant Plaza                      
+                Smithsonian            [Blue 1]  
+               Metro Center                      
+               Foggy Bottom                      
+                    Rosslyn                      
+         Arlington Cemetery                      
+                   Pentagon                      
+                    Airport                      
+                King Street                      
+      Franconia-Springfield                      
+
+Train Blue 1 leaving Smithsonian
+Blue
+          Largo Town Center                      
+             Stadium-Armory                      
+             Eastern Market                      
+             L'Enfant Plaza                      
+                Smithsonian                      
+               Metro Center                      
+               Foggy Bottom                      
+                    Rosslyn                      
+         Arlington Cemetery                      
+                   Pentagon                      
+                    Airport                      
+                King Street                      
+      Franconia-Springfield                      
+
+Train Blue 1 entering Metro Center
+Blue
+          Largo Town Center                      
+             Stadium-Armory                      
+             Eastern Market                      
+             L'Enfant Plaza                      
+                Smithsonian                      
+               Metro Center            [Blue 1]  
+               Foggy Bottom                      
+                    Rosslyn                      
+         Arlington Cemetery                      
+                   Pentagon                      
+                    Airport                      
+                King Street                      
+      Franconia-Springfield                      
+
+Train Blue 1 leaving Metro Center
+Blue
+          Largo Town Center                      
+             Stadium-Armory                      
+             Eastern Market                      
+             L'Enfant Plaza                      
+                Smithsonian                      
+               Metro Center                      
+               Foggy Bottom                      
+                    Rosslyn                      
+         Arlington Cemetery                      
+                   Pentagon                      
+                    Airport                      
+                King Street                      
+      Franconia-Springfield                      
+
+Train Blue 1 entering Foggy Bottom
+Blue
+          Largo Town Center                      
+             Stadium-Armory                      
+             Eastern Market                      
+             L'Enfant Plaza                      
+                Smithsonian                      
+               Metro Center                      
+               Foggy Bottom            [Blue 1]  
+                    Rosslyn                      
+         Arlington Cemetery                      
+                   Pentagon                      
+                    Airport                      
+                King Street                      
+      Franconia-Springfield                      
+
+Train Blue 1 leaving Foggy Bottom
+Blue
+          Largo Town Center                      
+             Stadium-Armory                      
+             Eastern Market                      
+             L'Enfant Plaza                      
+                Smithsonian                      
+               Metro Center                      
+               Foggy Bottom                      
+                    Rosslyn                      
+         Arlington Cemetery                      
+                   Pentagon                      
+                    Airport                      
+                King Street                      
+      Franconia-Springfield                      
+
+Train Blue 1 entering Rosslyn
+Blue
+          Largo Town Center                      
+             Stadium-Armory                      
+             Eastern Market                      
+             L'Enfant Plaza                      
+                Smithsonian                      
+               Metro Center                      
+               Foggy Bottom                      
+                    Rosslyn            [Blue 1]  
+         Arlington Cemetery                      
+                   Pentagon                      
+                    Airport                      
+                King Street                      
+      Franconia-Springfield                      
+
+Train Blue 1 leaving Rosslyn
+Blue
+          Largo Town Center                      
+             Stadium-Armory                      
+             Eastern Market                      
+             L'Enfant Plaza                      
+                Smithsonian                      
+               Metro Center                      
+               Foggy Bottom                      
+                    Rosslyn                      
+         Arlington Cemetery                      
+                   Pentagon                      
+                    Airport                      
+                King Street                      
+      Franconia-Springfield                      
+
+Train Blue 1 entering Arlington Cemetery
+Blue
+          Largo Town Center                      
+             Stadium-Armory                      
+             Eastern Market                      
+             L'Enfant Plaza                      
+                Smithsonian                      
+               Metro Center                      
+               Foggy Bottom                      
+                    Rosslyn                      
+         Arlington Cemetery            [Blue 1]  
+                   Pentagon                      
+                    Airport                      
+                King Street                      
+      Franconia-Springfield                      
+
+Train Blue 1 leaving Arlington Cemetery
+Blue
+          Largo Town Center                      
+             Stadium-Armory                      
+             Eastern Market                      
+             L'Enfant Plaza                      
+                Smithsonian                      
+               Metro Center                      
+               Foggy Bottom                      
+                    Rosslyn                      
+         Arlington Cemetery                      
+                   Pentagon                      
+                    Airport                      
+                King Street                      
+      Franconia-Springfield                      
+
+Train Blue 1 entering Pentagon
+Blue
+          Largo Town Center                      
+             Stadium-Armory                      
+             Eastern Market                      
+             L'Enfant Plaza                      
+                Smithsonian                      
+               Metro Center                      
+               Foggy Bottom                      
+                    Rosslyn                      
+         Arlington Cemetery                      
+                   Pentagon            [Blue 1]  
+                    Airport                      
+                King Street                      
+      Franconia-Springfield                      
+
+Train Blue 1 leaving Pentagon
+Blue
+          Largo Town Center                      
+             Stadium-Armory                      
+             Eastern Market                      
+             L'Enfant Plaza                      
+                Smithsonian                      
+               Metro Center                      
+               Foggy Bottom                      
+                    Rosslyn                      
+         Arlington Cemetery                      
+                   Pentagon                      
+                    Airport                      
+                King Street                      
+      Franconia-Springfield                      
+
+Train Blue 1 entering Airport
+Blue
+          Largo Town Center                      
+             Stadium-Armory                      
+             Eastern Market                      
+             L'Enfant Plaza                      
+                Smithsonian                      
+               Metro Center                      
+               Foggy Bottom                      
+                    Rosslyn                      
+         Arlington Cemetery                      
+                   Pentagon                      
+                    Airport            [Blue 1]  
+                King Street                      
+      Franconia-Springfield                      
+
+Train Blue 1 leaving Airport
+Blue
+          Largo Town Center                      
+             Stadium-Armory                      
+             Eastern Market                      
+             L'Enfant Plaza                      
+                Smithsonian                      
+               Metro Center                      
+               Foggy Bottom                      
+                    Rosslyn                      
+         Arlington Cemetery                      
+                   Pentagon                      
+                    Airport                      
+                King Street                      
+      Franconia-Springfield                      
+
+Train Blue 1 entering King Street
+Blue
+          Largo Town Center                      
+             Stadium-Armory                      
+             Eastern Market                      
+             L'Enfant Plaza                      
+                Smithsonian                      
+               Metro Center                      
+               Foggy Bottom                      
+                    Rosslyn                      
+         Arlington Cemetery                      
+                   Pentagon                      
+                    Airport                      
+                King Street            [Blue 1]  
+      Franconia-Springfield                      
+
+Train Blue 1 leaving King Street
+Blue
+          Largo Town Center                      
+             Stadium-Armory                      
+             Eastern Market                      
+             L'Enfant Plaza                      
+                Smithsonian                      
+               Metro Center                      
+               Foggy Bottom                      
+                    Rosslyn                      
+         Arlington Cemetery                      
+                   Pentagon                      
+                    Airport                      
+                King Street                      
+      Franconia-Springfield                      
+
+Train Blue 1 entering Franconia-Springfield
+Blue
+          Largo Town Center                      
+             Stadium-Armory                      
+             Eastern Market                      
+             L'Enfant Plaza                      
+                Smithsonian                      
+               Metro Center                      
+               Foggy Bottom                      
+                    Rosslyn                      
+         Arlington Cemetery                      
+                   Pentagon                      
+                    Airport                      
+                King Street                      
+      Franconia-Springfield            [Blue 1]  
+
+Train Blue 1 leaving Franconia-Springfield
+Blue
+          Largo Town Center                      
+             Stadium-Armory                      
+             Eastern Market                      
+             L'Enfant Plaza                      
+                Smithsonian                      
+               Metro Center                      
+               Foggy Bottom                      
+                    Rosslyn                      
+         Arlington Cemetery                      
+                   Pentagon                      
+                    Airport                      
+                King Street                      
+      Franconia-Springfield                      
+
+Train Blue 1 entering King Street
+Blue
+          Largo Town Center                      
+             Stadium-Armory                      
+             Eastern Market                      
+             L'Enfant Plaza                      
+                Smithsonian                      
+               Metro Center                      
+               Foggy Bottom                      
+                    Rosslyn                      
+         Arlington Cemetery                      
+                   Pentagon                      
+                    Airport                      
+                King Street            [Blue 1]  
+      Franconia-Springfield                      
+
+Train Blue 1 leaving King Street
+Blue
+          Largo Town Center                      
+             Stadium-Armory                      
+             Eastern Market                      
+             L'Enfant Plaza                      
+                Smithsonian                      
+               Metro Center                      
+               Foggy Bottom                      
+                    Rosslyn                      
+         Arlington Cemetery                      
+                   Pentagon                      
+                    Airport                      
+                King Street                      
+      Franconia-Springfield                      
+
+Train Blue 1 entering Airport
+Blue
+          Largo Town Center                      
+             Stadium-Armory                      
+             Eastern Market                      
+             L'Enfant Plaza                      
+                Smithsonian                      
+               Metro Center                      
+               Foggy Bottom                      
+                    Rosslyn                      
+         Arlington Cemetery                      
+                   Pentagon                      
+                    Airport            [Blue 1]  
+                King Street                      
+      Franconia-Springfield                      
+
+Train Blue 1 leaving Airport
+Blue
+          Largo Town Center                      
+             Stadium-Armory                      
+             Eastern Market                      
+             L'Enfant Plaza                      
+                Smithsonian                      
+               Metro Center                      
+               Foggy Bottom                      
+                    Rosslyn                      
+         Arlington Cemetery                      
+                   Pentagon                      
+                    Airport                      
+                King Street                      
+      Franconia-Springfield                      
+
+Train Blue 1 entering Pentagon
+Blue
+          Largo Town Center                      
+             Stadium-Armory                      
+             Eastern Market                      
+             L'Enfant Plaza                      
+                Smithsonian                      
+               Metro Center                      
+               Foggy Bottom                      
+                    Rosslyn                      
+         Arlington Cemetery                      
+                   Pentagon            [Blue 1]  
+                    Airport                      
+                King Street                      
+      Franconia-Springfield                      
+
+Train Blue 1 leaving Pentagon
+Blue
+          Largo Town Center                      
+             Stadium-Armory                      
+             Eastern Market                      
+             L'Enfant Plaza                      
+                Smithsonian                      
+               Metro Center                      
+               Foggy Bottom                      
+                    Rosslyn                      
+         Arlington Cemetery                      
+                   Pentagon                      
+                    Airport                      
+                King Street                      
+      Franconia-Springfield                      
+
+Train Blue 1 entering Arlington Cemetery
+Blue
+          Largo Town Center                      
+             Stadium-Armory                      
+             Eastern Market                      
+             L'Enfant Plaza                      
+                Smithsonian                      
+               Metro Center                      
+               Foggy Bottom                      
+                    Rosslyn                      
+         Arlington Cemetery            [Blue 1]  
+                   Pentagon                      
+                    Airport                      
+                King Street                      
+      Franconia-Springfield                      
+
+Train Blue 1 leaving Arlington Cemetery
+Blue
+          Largo Town Center                      
+             Stadium-Armory                      
+             Eastern Market                      
+             L'Enfant Plaza                      
+                Smithsonian                      
+               Metro Center                      
+               Foggy Bottom                      
+                    Rosslyn                      
+         Arlington Cemetery                      
+                   Pentagon                      
+                    Airport                      
+                King Street                      
+      Franconia-Springfield                      
+
+Train Blue 1 entering Rosslyn
+Blue
+          Largo Town Center                      
+             Stadium-Armory                      
+             Eastern Market                      
+             L'Enfant Plaza                      
+                Smithsonian                      
+               Metro Center                      
+               Foggy Bottom                      
+                    Rosslyn            [Blue 1]  
+         Arlington Cemetery                      
+                   Pentagon                      
+                    Airport                      
+                King Street                      
+      Franconia-Springfield                      
+
+Train Blue 1 leaving Rosslyn
+Blue
+          Largo Town Center                      
+             Stadium-Armory                      
+             Eastern Market                      
+             L'Enfant Plaza                      
+                Smithsonian                      
+               Metro Center                      
+               Foggy Bottom                      
+                    Rosslyn                      
+         Arlington Cemetery                      
+                   Pentagon                      
+                    Airport                      
+                King Street                      
+      Franconia-Springfield                      
+
+Train Blue 1 entering Foggy Bottom
+Blue
+          Largo Town Center                      
+             Stadium-Armory                      
+             Eastern Market                      
+             L'Enfant Plaza                      
+                Smithsonian                      
+               Metro Center                      
+               Foggy Bottom            [Blue 1]  
+                    Rosslyn                      
+         Arlington Cemetery                      
+                   Pentagon                      
+                    Airport                      
+                King Street                      
+      Franconia-Springfield                      
+
+Train Blue 1 leaving Foggy Bottom
+Blue
+          Largo Town Center                      
+             Stadium-Armory                      
+             Eastern Market                      
+             L'Enfant Plaza                      
+                Smithsonian                      
+               Metro Center                      
+               Foggy Bottom                      
+                    Rosslyn                      
+         Arlington Cemetery                      
+                   Pentagon                      
+                    Airport                      
+                King Street                      
+      Franconia-Springfield                      
+
+Train Blue 1 entering Metro Center
+Blue
+          Largo Town Center                      
+             Stadium-Armory                      
+             Eastern Market                      
+             L'Enfant Plaza                      
+                Smithsonian                      
+               Metro Center            [Blue 1]  
+               Foggy Bottom                      
+                    Rosslyn                      
+         Arlington Cemetery                      
+                   Pentagon                      
+                    Airport                      
+                King Street                      
+      Franconia-Springfield                      
+
+Train Blue 1 leaving Metro Center
+Blue
+          Largo Town Center                      
+             Stadium-Armory                      
+             Eastern Market                      
+             L'Enfant Plaza                      
+                Smithsonian                      
+               Metro Center                      
+               Foggy Bottom                      
+                    Rosslyn                      
+         Arlington Cemetery                      
+                   Pentagon                      
+                    Airport                      
+                King Street                      
+      Franconia-Springfield                      
+
+Train Blue 1 entering Smithsonian
+Blue
+          Largo Town Center                      
+             Stadium-Armory                      
+             Eastern Market                      
+             L'Enfant Plaza                      
+                Smithsonian            [Blue 1]  
+               Metro Center                      
+               Foggy Bottom                      
+                    Rosslyn                      
+         Arlington Cemetery                      
+                   Pentagon                      
+                    Airport                      
+                King Street                      
+      Franconia-Springfield                      
+
+Train Blue 1 leaving Smithsonian
+Blue
+          Largo Town Center                      
+             Stadium-Armory                      
+             Eastern Market                      
+             L'Enfant Plaza                      
+                Smithsonian                      
+               Metro Center                      
+               Foggy Bottom                      
+                    Rosslyn                      
+         Arlington Cemetery                      
+                   Pentagon                      
+                    Airport                      
+                King Street                      
+      Franconia-Springfield                      
+
+Train Blue 1 entering L'Enfant Plaza
+Blue
+          Largo Town Center                      
+             Stadium-Armory                      
+             Eastern Market                      
+             L'Enfant Plaza            [Blue 1]  
+                Smithsonian                      
+               Metro Center                      
+               Foggy Bottom                      
+                    Rosslyn                      
+         Arlington Cemetery                      
+                   Pentagon                      
+                    Airport                      
+                King Street                      
+      Franconia-Springfield                      
+
+Train Blue 1 leaving L'Enfant Plaza
+Blue
+          Largo Town Center                      
+             Stadium-Armory                      
+             Eastern Market                      
+             L'Enfant Plaza                      
+                Smithsonian                      
+               Metro Center                      
+               Foggy Bottom                      
+                    Rosslyn                      
+         Arlington Cemetery                      
+                   Pentagon                      
+                    Airport                      
+                King Street                      
+      Franconia-Springfield                      
+
+Train Blue 1 entering Eastern Market
+Blue
+          Largo Town Center                      
+             Stadium-Armory                      
+             Eastern Market            [Blue 1]  
+             L'Enfant Plaza                      
+                Smithsonian                      
+               Metro Center                      
+               Foggy Bottom                      
+                    Rosslyn                      
+         Arlington Cemetery                      
+                   Pentagon                      
+                    Airport                      
+                King Street                      
+      Franconia-Springfield                      
+
+Train Blue 1 leaving Eastern Market
+Blue
+          Largo Town Center                      
+             Stadium-Armory                      
+             Eastern Market                      
+             L'Enfant Plaza                      
+                Smithsonian                      
+               Metro Center                      
+               Foggy Bottom                      
+                    Rosslyn                      
+         Arlington Cemetery                      
+                   Pentagon                      
+                    Airport                      
+                King Street                      
+      Franconia-Springfield                      
+
+Train Blue 1 entering Stadium-Armory
+Blue
+          Largo Town Center                      
+             Stadium-Armory            [Blue 1]  
+             Eastern Market                      
+             L'Enfant Plaza                      
+                Smithsonian                      
+               Metro Center                      
+               Foggy Bottom                      
+                    Rosslyn                      
+         Arlington Cemetery                      
+                   Pentagon                      
+                    Airport                      
+                King Street                      
+      Franconia-Springfield                      
+
+Train Blue 1 leaving Stadium-Armory
+Blue
+          Largo Town Center                      
+             Stadium-Armory                      
+             Eastern Market                      
+             L'Enfant Plaza                      
+                Smithsonian                      
+               Metro Center                      
+               Foggy Bottom                      
+                    Rosslyn                      
+         Arlington Cemetery                      
+                   Pentagon                      
+                    Airport                      
+                King Street                      
+      Franconia-Springfield                      
+
+Train Blue 1 entering Largo Town Center
+Blue
+          Largo Town Center            [Blue 1]  
+             Stadium-Armory                      
+             Eastern Market                      
+             L'Enfant Plaza                      
+                Smithsonian                      
+               Metro Center                      
+               Foggy Bottom                      
+                    Rosslyn                      
+         Arlington Cemetery                      
+                   Pentagon                      
+                    Airport                      
+                King Street                      
+      Franconia-Springfield                      
+
+Train Blue 1 leaving Largo Town Center
+Blue
+          Largo Town Center                      
+             Stadium-Armory                      
+             Eastern Market                      
+             L'Enfant Plaza                      
+                Smithsonian                      
+               Metro Center                      
+               Foggy Bottom                      
+                    Rosslyn                      
+         Arlington Cemetery                      
+                   Pentagon                      
+                    Airport                      
+                King Street                      
+      Franconia-Springfield                      
+

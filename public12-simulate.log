@@ -1,0 +1,26 @@
+% simulate.rb simulate public12.input 
+=== Lines ===
+Red, Glenmont, Silver Spring, Fort Totten, Union Station, Gallery Place, Metro Center, Bethesda, Shady Grove
+Green, Greenbelt, College Park, Fort Totten, Gallery Place, L'Enfant Plaza, Branch Ave
+Yellow, Fort Totten, Gallery Place, L'Enfant Plaza, Pentagon, Airport, King Street, Huntington
+Orange, New Carrolton, Stadium-Armory, Eastern Market, L'Enfant Plaza, Smithsonian, Metro Center, Foggy Bottom, Rosslyn, Ballston, Vienna
+Blue, Largo Town Center, Stadium-Armory, Eastern Market, L'Enfant Plaza, Smithsonian, Metro Center, Foggy Bottom, Rosslyn, Arlington Cemetery, Pentagon, Airport, King Street, Franconia-Springfield
+=== Trains ===
+Red=1
+Green=1
+Yellow=1
+Orange=1
+Blue=1
+=== Passenger Limit ===
+limit=5
+=== Passengers ===
+Mickey, Shady Grove, Glenmont, Gallery Place, Greenbelt
+Minnie, Greenbelt, Gallery Place, Glenmont, Shady Grove
+Donald, Huntington, Gallery Place, Glenmont, Silver Spring
+Tweety, Largo Town Center, Metro Center, Shady Grove
+Sylvester, Largo Town Center, L'Enfant Plaza, Eastern Market, Smithsonian, Metro Center, Fort Totten, College Park
+Grumpy, Largo Town Center, L'Enfant Plaza, Eastern Market, Smithsonian, Metro Center, Fort Totten, College Park
+Sleepy, Largo Town Center, L'Enfant Plaza, Eastern Market, Smithsonian, Metro Center, Fort Totten, College Park
+Sneezy, Largo Town Center, L'Enfant Plaza, Eastern Market, Smithsonian, Metro Center, Fort Totten, College Park
+Doc, Largo Town Center, L'Enfant Plaza, Eastern Market, Smithsonian, Metro Center, Fort Totten, College Park
+=== Output ===
